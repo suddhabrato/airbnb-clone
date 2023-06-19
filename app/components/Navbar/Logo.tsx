@@ -11,7 +11,7 @@ const Logo = () => {
       alt="Logo"
       height={100}
       width={100}
-      className="hidden md:block cursor-pointer"
+      className="hidden md:block cursor-pointer aspect-auto"
     />
   );
 };
